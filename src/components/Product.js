@@ -1,7 +1,7 @@
 import React from "react";
 
 const Product = ({ items }) => {
-  console.log(items);
+  // console.log(items);
   return (
     <>
       <ul className="products">
